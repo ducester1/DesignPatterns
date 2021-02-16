@@ -1,0 +1,8 @@
+// With this you could make your own campaign by editing lots of maps, and putting them in a new folder next to the others.
+map:3
+lastMap:99
+campaignFolder:campaign1
+scale:4.0
+playMusic:true
+playSound:true
+showAreaInfo:false
