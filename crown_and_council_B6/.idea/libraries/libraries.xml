@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="libraries">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libraries/gluegen-rt-natives-windows-amd64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/jogl-all.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/minim.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/tritonus_share.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/steamworks4jnatives.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/gluegen-rt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/tritonus_aos.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/jsminim.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/crown_and_council_B6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/jogl-all-natives-windows-amd64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/mp3spi1.9.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/jl1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/steamworks4j.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/core.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

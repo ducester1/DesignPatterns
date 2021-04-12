@@ -3,7 +3,7 @@
  by Henrik 'carnalizer' Pettersson, (c)2016 Mojang
  */
 
-import com.codedisaster.steamworks.*;
+//import com.codedisaster.steamworks.*;
 import ddf.minim.spi.*;
 import ddf.minim.signals.*;
 import ddf.minim.*;
@@ -151,7 +151,7 @@ void settings() {
 
 void setup() {
     loadSettings();
-    size(1024, 768, JAVA2D);
+    //size(1024, 768, JAVA2D);
     //surface.setResizable(true);
     //screenSet();
     surface.setResizable(false);
@@ -161,11 +161,11 @@ void setup() {
     textFont(font, textHeight);
     textAlign(CENTER);
 
-  if (!SteamAPI.init("lib\\steamworks4jnatives.jar")) {
-     // report error
-     println("steamerror!");
-     log=System.getProperty("user.dir");
-     }
+  //if (!SteamAPI.init("lib\\steamworks4jnatives.jar")) {
+  //   // report error
+  //   println("steamerror!");
+  //   log=System.getProperty("user.dir");
+  //   }
 
     println("user dir: " + System.getProperty("user.dir"));
 

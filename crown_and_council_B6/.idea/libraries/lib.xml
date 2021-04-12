@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/java/lib/jsse.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java/lib/deploy.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java/lib/plugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java/lib/jfxswt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java/lib/rt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java/lib/resources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java/lib/jfr.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java/lib/management-agent.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java/lib/charsets.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java/lib/jce.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
